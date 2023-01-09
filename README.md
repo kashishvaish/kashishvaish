@@ -1,6 +1,6 @@
 ## 👋 Hey There! Nice to see you
 
-I’m [Kashish Vaish](https://kashishvaish.github.io/kashish-vaish/), a final year B.Tech Computer Science and Engineering Student from <img src="https://github.com/hampusborgos/country-flags/blob/main/png250px/in.png" width="20px" height="15px"> India. 
+I’m [Kashish Vaish](https://kashishvaish.github.io/kashish-vaish/), a Computer Science Engineer from <img src="https://github.com/hampusborgos/country-flags/blob/main/png250px/in.png" width="20px" height="15px"> India. 
 ✨ I'm passionate about programming and love to code and learn new skills.
 
 #### Programming Languages I Use 
